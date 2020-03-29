@@ -9,7 +9,7 @@ Réalité Virtuelle Aquarium
 I/ Utilisation
 
 Vous avancez automatiquement tout droit dans la scène. 
-Pour tourner: Alt + mouvements de la souris
+(si utilisation sur ordinateur/ sans casque VR -> Pour tourner: Alt + mouvements de la souris)
 
 II/ Balade à l’infini et décors 
 
